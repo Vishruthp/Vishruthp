@@ -6,7 +6,7 @@
 
 ### Connect with me:
 [<img align="left" alt="Twitter" width="26px" src="/twitter.png"/>][twitter]
-[<img align="left" alt="LinkedIn" width="26px" src="/linkedin.png"/>][linkedin]
+[<img align="left" alt="LinkedIn" width="22px" src="/linkedin.png"/>][linkedin]
 <br />
 
 ### Languages and Tools:
