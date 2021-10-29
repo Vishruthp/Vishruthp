@@ -11,7 +11,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="/vscode.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="/vscode.svg" />
 <img align="left" alt="React" width="26px" src="/react.png" />
 <img align="left" alt="React" width="26px" src="/flutter.png" />
 <img align="left" alt="React" width="26px" src="/angular.png" />
