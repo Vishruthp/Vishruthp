@@ -1,5 +1,5 @@
 ### Hey there I'm Vishruth Patil 
-## I'm a Gamer and Developer!!
+## I'm a Gamer and Developer
 
 - I’m trying to learn stuff
 - 2021 Goals: Contribute more to Open Source projects
