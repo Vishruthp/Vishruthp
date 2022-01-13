@@ -2,7 +2,7 @@
 ## I'm a Gamer and Developer
 
 - I’m trying to learn stuff
-- 2021 Goals: Skill Up & Contribute more to Open Source projects
+- 2022 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 [<img align="left" alt="Twitter" width="36px" src="/twitter.png"/>][twitter]
