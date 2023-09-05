@@ -4,6 +4,9 @@
 - I’m trying to learn stuff
 - 2023 Goals: Contribute more to Open Source projects
 
+### Portfolio
+[Portfolio][portfolio]
+
 ### Connect with me:
 [<img align="left" alt="Twitter" width="36px" src="/twitter.png"/>][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="/linkedin.png"/>][linkedin]
@@ -21,3 +24,4 @@
 
 [twitter]: https://twitter.com/vishruthpatil
 [linkedin]: https://www.linkedin.com/in/vishruth-patil-55962ab6
+[portfolio]: https://vishruthp.github.io/portfolio/assets/profile.png
