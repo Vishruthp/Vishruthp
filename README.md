@@ -5,7 +5,7 @@
 - 2023 Goals: Contribute more to Open Source projects
 
 ### Portfolio
-[Portfolio][portfolio]
+[Portfolio][https://vishruthp.github.io/portfolio/)https://vishruthp.github.io/portfolio]
 
 ### Connect with me:
 [<img align="left" alt="Twitter" width="36px" src="/twitter.png"/>][twitter]
@@ -24,4 +24,3 @@
 
 [twitter]: https://twitter.com/vishruthpatil
 [linkedin]: https://www.linkedin.com/in/vishruth-patil-55962ab6
-[portfolio]: https://vishruthp.github.io/portfolio/)https://vishruthp.github.io/portfolio
