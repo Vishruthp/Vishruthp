@@ -24,4 +24,4 @@
 
 [twitter]: https://twitter.com/vishruthpatil
 [linkedin]: https://www.linkedin.com/in/vishruth-patil-55962ab6
-[portfolio]: https://vishruthp.github.io/portfolio/assets/profile.png
+[portfolio]: https://vishruthp.github.io/portfolio/)https://vishruthp.github.io/portfolio
