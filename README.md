@@ -25,6 +25,5 @@
 [linkedin]: https://www.linkedin.com/in/vishruth-patil-55962ab6
 
 ### Stats:
-<br />
-<br />
+
 [![Vishruth's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishruthp)](https://github.com/vishruthp/github-readme-stats)
