@@ -42,9 +42,6 @@
 <br />
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=vishruthp&show_icons=true&locale=en" alt="vishruthp" />
-<br />
-<br />
-<br />
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vishruthp&" alt="vishruthp" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishruthp&show_icons=true&locale=en" alt="vishruthp" hspace="20"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishruthp&" alt="vishruthp" hspace="20" />
 
