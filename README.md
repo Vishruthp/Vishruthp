@@ -1,11 +1,10 @@
+<img align="right" alt="Coder GIF" src="/coding.gif" width="100" height="100" />
 <h1 align="left">Hi 👋, I'm Vishruth Patil</h1>
 <h3 align="left">Full Stack Dev & Gamer </h3>
 
 - 2023 Goals: Contribute more to Open Source projects
 - Work on a Personal Project
 
-
-<img align="right" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 [My Portfolio](https://vishruthp.github.io/portfolio/)
 
 <h3 align="left">Connect with me:</h3>
