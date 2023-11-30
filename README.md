@@ -40,11 +40,11 @@
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
+
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=vishruthp&show_icons=true&locale=en" alt="vishruthp" />
-
+<br />
+<br />
+<br />
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vishruthp&" alt="vishruthp" />
 
