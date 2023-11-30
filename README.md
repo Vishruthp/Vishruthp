@@ -41,6 +41,6 @@
 
 <h3 align="left"> My Stats </h3>
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishruthp&show_icons=true&locale=en&theme=github_dark&hide_border=true&hide_title=true" alt="vishruthp"/>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishruthp&theme=github_dark&hide_border=true" alt="vishruthp" hspace="20" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishruthp&show_icons=true&locale=en&theme=transparent&hide_border=true&hide_title=true" alt="vishruthp"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishruthp&theme=transparent&hide_border=true" alt="vishruthp" hspace="20" />
 </p>
