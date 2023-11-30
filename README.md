@@ -1,12 +1,8 @@
 <h1 align="left">Hi 👋, I'm Vishruth Patil</h1>
 <h3 align="left">Full Stack Dev & Gamer </h3>
 
- - 2023 Goals: Contribute more to Open Source projects
+- 2023 Goals: Contribute more to Open Source projects
 - Work on a Personal Project
-
-<img align="right" alt="coding" width="400" src="/coding.gif"/>
-
-### [Portfolio](https://vishruthp.github.io/portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -14,8 +10,7 @@
 <a href="https://www.linkedin.com/in/vishruth-patil-55962ab6" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishruthp" width="26" /></a>
 </p>
 <br/>
-
-
+<a href="https://vishruthp.github.io/portfolio/" target="blank"><h3>Portfolio</h3></a>
 
 <h3 align="left">Languages and Tools: </h3>
 <img align="left" alt="Visual Studio Code" width="26px" src="/vscode.svg" />
