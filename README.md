@@ -3,8 +3,7 @@
 
 - 2023 Goals: Contribute more to Open Source projects
 - Work on a Personal Project
-
-[My Portfolio](https://vishruthp.github.io/portfolio/)
+- Portfolio: [Your Portfolio](https://vishruthp.github.io/portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
