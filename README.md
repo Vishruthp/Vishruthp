@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Vishruth Patil</h1>
+<h1 align="left">Hi, I'm Vishruth Patil</h1>
 <h3 align="left">Full Stack Dev & Gamer </h3>
 
 - 2023 Goals: Contribute more to Open Source projects
@@ -40,6 +40,6 @@
 <br />
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishruthp&show_icons=true&locale=en" alt="vishruthp" hspace="20"/>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishruthp&" alt="vishruthp" hspace="20" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=vishruthp&show_icons=true&locale=en&theme=github_dark&hide_border=true" alt="vishruthp"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishruthp&theme=github_dark&hide_border=true" alt="vishruthp" hspace="20" />
 
