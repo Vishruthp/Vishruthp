@@ -3,7 +3,9 @@
 
 - 2023 Goals: Contribute more to Open Source projects
 - Work on a Personal Project
-  
+
+
+<img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 [My Portfolio](https://vishruthp.github.io/portfolio/)
 
 <h3 align="left">Connect with me:</h3>
