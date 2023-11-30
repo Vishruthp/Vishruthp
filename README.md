@@ -1,6 +1,8 @@
-<img align="right" alt="Coder GIF" src="/coding.gif" width="100" height="100" />
+<img align="left" alt="Coder GIF" src="/dev.gif" width="200" />
 <h1 align="left">Hi 👋, I'm Vishruth Patil</h1>
 <h3 align="left">Full Stack Dev & Gamer </h3>
+<br/>
+<br/>
 
 - 2023 Goals: Contribute more to Open Source projects
 - Work on a Personal Project
