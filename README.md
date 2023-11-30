@@ -1,4 +1,3 @@
-<img align="left" alt="Coder GIF" src="/dev.gif" width="200" />
 <h1 align="left">Hi 👋, I'm Vishruth Patil</h1>
 <h3 align="left">Full Stack Dev & Gamer </h3>
 <br/>
@@ -42,6 +41,7 @@
 <br />
 
 <div>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=vishruthp&show_icons=true&locale=en" alt="vishruthp" /><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vishruthp&" alt="vishruthp" /></p>
-<p></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=vishruthp&show_icons=true&locale=en" alt="vishruthp" /></p>
+  <br/>
+<p>&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vishruthp&" alt="vishruthp" /></p>
 </div>
