@@ -1,7 +1,7 @@
 <h1 align="left">Hi, I'm Vishruth Patil</h1>
 <h3 align="left">Full Stack Dev & Gamer </h3>
 
-- 2023 Goals: Contribute more to Open Source projects
+- 2025 Goals: Contribute more to Open Source projects
 - Work on a Personal Project
 - Portfolio: [Personal Portfolio](https://vishruthp.github.io/portfolio/)
 
